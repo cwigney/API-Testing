@@ -1,6 +1,6 @@
 /// <reference types = "cypress" />
 
-const requestBody = require('../../../fixtures/Booking.json');
+const requestBody = require('./Booking.json');
 
 // Practise API testing with Cypress
 // Will use the Restful Booker API
